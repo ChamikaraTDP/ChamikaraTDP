@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChamikaraTDP
+- 👋 Hi, I’m Chamikara
 - 👀 I’m interested in Computer Science. 
 - 🌱 I’m currently learning Azure and cloud concepts
 - 💞️ I’m looking to collaborate on Javascript projects
