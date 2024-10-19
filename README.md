@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me,
   -  Email me: <a href="mailto:chamikaratdp@gmail.com">chamikaratdp@gmail.com</a>
-  -  Follow me on : <a href="https://twitter.com/ChamikaraTDP">twitter</a>
+  -  Follow me on : <a href="https://x.com/ChamikaraTDP">X</a>
 
 <!---
 ChamikaraTDP/ChamikaraTDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
